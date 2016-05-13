@@ -1,0 +1,11 @@
+{
+  "name": "df0004",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  }
+}
